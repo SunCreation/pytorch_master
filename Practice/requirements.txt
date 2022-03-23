@@ -1,0 +1,1 @@
+# pip install -r requirements.txt 이걸 하면 다 설치됨
